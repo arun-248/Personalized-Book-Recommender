@@ -3,6 +3,11 @@
 This project is a personalized book recommendation system built with Python, using the **Book-Crossing dataset**. The application uses **collaborative filtering** to provide tailored book suggestions based on a user's reading history and preferences.
 
 ---
+## 📸 Project Screenshot
+
+<img src="Personalized_Book_Recommender.jpg" alt="Personalized Book Recommender" width="800"/>
+
+---
 
 ### Dataset Description
 
